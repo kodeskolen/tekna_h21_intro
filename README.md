@@ -9,6 +9,8 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201.pdf).
 
+**Bonusoppgavene for dag en** finner dere [her](dag1/Bonusoppgaver%20dag%201.pdf).
+
 # Kursets innhold:
 Dette kurset er en kræsjkurs i programmering for lærere som har liten eller ingen tidligere erfaring med programmering.
 
