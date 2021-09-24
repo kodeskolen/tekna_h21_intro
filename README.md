@@ -11,6 +11,10 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Bonusoppgavene for dag en** finner dere [her](dag1/Bonusoppgaver%20dag%201.pdf).
 
+**Løsningsforslag til oppgavene for dag en** finner dere [her](dag1/Oppgaver%20dag%201%20-%20Løsningsforslag.pdf).
+
+**Løsningsforslag til bonusoppgavene for dag en** finner dere [her](dag1/Bonusoppgaver%20dag%201%20-%20Løsningsforslag.pdf).
+
 **Live kode fra dag en** finner dere [her](dag1/Kode)
 
 # Kursets innhold:
