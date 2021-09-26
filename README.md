@@ -17,6 +17,13 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Live kode fra dag en** finner dere [her](dag1/Kode)
 
+## Dag 2
+**Kompendiet for dag to** finner dere [her](dag2/Kompendium%20dag%202.pdf).
+
+**Oppgavene for dag to** finner dere [her](dag2/Oppgaver%20dag%202.pdf).
+
+**Bonusoppgavene for dag to** finner dere [her](dag2/Bonusoppgaver%20dag%202.pdf).
+
 # Kursets innhold:
 Dette kurset er en kræsjkurs i programmering for lærere som har liten eller ingen tidligere erfaring med programmering.
 
