@@ -36,6 +36,7 @@ Det ligger også ekstramateriale i mappen [ekstra](ekstra/). Der finner dere:
 *  [et eksempel på en Jupyter notebook](ekstra/Notebook_demo.ipynb)
 *  [en guide til plotting med repl.it](ekstra/plotting_i_replit.md)
 *  [en artikkel med tips for å undervise programmering](ekstra/10_quick_tips_for_teaching_programming_brown.pdf)
+*  [en samling slides med eksempelprosjekter og relevante læreplanmål](ekstra/L%C3%A6replanm%C3%A5l%20for%20koding.pdf)
 
 ## Ekstra Ressurser:
 Her har vi samlet et knippe resurser som kan være nyttige som ekstra trening eller som inspirasjon for realfagsrelevante programmeringseksempler. 
