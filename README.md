@@ -15,7 +15,7 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Løsningsforslag til bonusoppgavene for dag en** finner dere [her](dag1/Bonusoppgaver%20dag%201%20-%20Løsningsforslag.pdf).
 
-**Live kode fra dag en** finner dere [her](dag1/Kode)
+**Live kode fra dag en** finner dere [her](dag1/Kode).
 
 ## Dag 2
 **Kompendiet for dag to** finner dere [her](dag2/Kompendium%20dag%202.pdf).
@@ -25,6 +25,8 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 **Bonusoppgavene for dag to** finner dere [her](dag2/Bonusoppgaver%20dag%202.pdf).
 
 **Gjettelek-koden fra dag en** finner dere [her](dag1/Kode/gjettelek.py).
+
+**Live kode fra dag to** finner dere [her](dag2/Kode).
 
 # Kursets innhold:
 Dette kurset er en kræsjkurs i programmering for lærere som har liten eller ingen tidligere erfaring med programmering.
