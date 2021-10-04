@@ -26,6 +26,10 @@ Dette repositoriet er ment for deling av kursmateriale for kræsjkurs i programm
 
 **Gjettelek-koden fra dag en** finner dere [her](dag1/Kode/gjettelek.py).
 
+**Løsningsforslag til oppgavene for dag to** finner dere [her](dag2/Oppgaver%20dag%202%20-%20Løsningsforslag.pdf).
+
+**Løsningsforslag til bonusoppgavene for dag to** finner dere [her](dag2/Bonusoppgaver%20dag%202%20-%20Løsningsforslag.pdf).
+
 **Live kode fra dag to** finner dere [her](dag2/Kode).
 
 # Kursets innhold:
